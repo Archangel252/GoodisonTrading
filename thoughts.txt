@@ -1,0 +1,10 @@
+
+RESEARCH LEARNINGS
+Speed doen't matter in retail trading unless you are going to pay a LOT of money?
+
+POSSIBLE TECHNOLOGIES TO USE?
+Alpaca? look into foe API   
+
+HOW TO:
+must have docker desktop to open
+run docker compose up --build

@@ -1,0 +1,27 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask-related files
+instance/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE/editor configurations
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db

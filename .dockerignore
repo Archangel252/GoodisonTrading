@@ -1,0 +1,38 @@
+# Ignore Python bytecode files
+**/__pycache__
+**/*.pyc
+
+# Ignore hidden files and directories
+.*
+!/.env
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore local settings
+local_settings.py
+
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+
+# Ignore IDE configurations
+.idea/
+.vscode/
